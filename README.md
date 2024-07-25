@@ -102,7 +102,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD
+git clone https://github.com/Sesaucuns/GataBot-MD && cd GataBot-MD
 ```
 ```bash
 yarn install && npm install
